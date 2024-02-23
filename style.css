@@ -1,0 +1,33 @@
+
+
+#heading{
+    margin-top: 0%;
+    font-size: 48px;
+    line-height: 1.5;
+    text-align-last: center;
+    color: antiquewhite;
+}
+
+body{
+    background-image: url("AfternoonCoffee.jpg");
+    background-repeat: no-repeat;
+    background-size: 80% auto;
+    background-position: center;
+    background-color: rgb(173, 215, 237);
+}
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 400 to 700
+
+.noto-serif oriya-<uniquifier> {
+  font-family: "Noto Serif Oriya", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+button{
+    cursor: pointer;
+    position: absolute;
+    top: 60%;
+    left: 52%;
+}
