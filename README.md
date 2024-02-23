@@ -1,4 +1,4 @@
-# HTML_CSS_Javascript
+# Change text on click
 by Kalpa Behera
 
 (url:) [https://textchangeonclick.netlify.app]
